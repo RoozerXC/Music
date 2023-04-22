@@ -1,5 +1,5 @@
 # RoozerXC - Discography/Misc. Music Stuff
-Open-source repository for my music project files. I mainly use FL Studio to write, compose, and produce my music. Some songs might use copyrighted samples; see license information for more details
+Open-source repository for my music project files. I mainly use FL Studio to write, compose, and produce my music, as well as Paint.net to make artwork for songs. Some songs might use copyrighted samples; see license information for more details
 
 # Gear
 ### Physical
@@ -23,3 +23,4 @@ Open-source repository for my music project files. I mainly use FL Studio to wri
 
 # License information
 All my songs are licensed under WTFPL (except covers or renditions of already-existing/copyrighted songs), meaning you can do whatever the fuck you want to. All other product and company names are trademarks or registered trademarks of their respective holders.
+
